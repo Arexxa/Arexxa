@@ -30,4 +30,4 @@ I've been learning codes for 4 years since my diploma and continue my degree as 
                       <a href="https://www.github.com/Arexxa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.linkedin.com/in/shahrulnizam-ibrahim/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-                      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arexxa&show_icons=true&theme=radical)](https://github.com/Arexxa/github-readme-stats)
+                     
